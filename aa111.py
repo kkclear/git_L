@@ -20,5 +20,6 @@ print(aa,bb)
 print(aaa,bbb)
 
 # nothing happen
+# v2 v2
 a1 = aaa[0]
 print(a1)
