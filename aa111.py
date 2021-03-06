@@ -21,5 +21,6 @@ print(aaa,bbb)
 
 # nothing happen
 # v2 v2
+# dev 50%
 a1 = aaa[0]
 print(a1)
