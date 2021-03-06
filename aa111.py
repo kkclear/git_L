@@ -22,5 +22,6 @@ print(aaa,bbb)
 # nothing happen
 # v2 v2
 # 修复bug
+# dev 100%
 a1 = aaa[0]
 print(a1)
